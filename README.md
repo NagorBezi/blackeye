@@ -2,7 +2,7 @@
   
 
 <p align="left">
-<a href="#"><img title="Made in PAKISTAN" src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=%23ff9933&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Made in PAKISTAN" src="https://img.shields.io/badge/MADE%20IN-PAKISTAN-green?colorA=%23ff9933&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="#"><img title="blackeye-im" src="https://i.imgur.com/5N5Kdjw.png"></a>
